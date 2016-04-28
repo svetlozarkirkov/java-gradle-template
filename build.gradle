@@ -14,7 +14,6 @@ dependencies {
     compile 'org.jbehave:jbehave-core:4.0.5'
     compile 'org.jbehave:jbehave-guice:4.0.5'
     compile 'com.google.guava:guava:19.0'
-    compile 'org.projectlombok:lombok:1.16.8'
     compile 'org.slf4j:slf4j-api:1.7.21'
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-core:2.0.52-beta'
